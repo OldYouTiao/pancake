@@ -20,9 +20,9 @@ bbb|read|22
 `call function;`
 
 ```
-  void function(void)  
-  {  
-      return 0;  
-  }  
-  function();
+void function(void)
+{
+    return 0;
+}
+function();
 ```  
