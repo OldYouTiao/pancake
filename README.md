@@ -19,9 +19,10 @@ bbb|read|22
 ### title3
 `call function;`
 
-(```)
-  void funtion(void)  
+```
+  void function(void)  
   {  
       return 0;  
   }  
-(```)  
+  function();
+```  
